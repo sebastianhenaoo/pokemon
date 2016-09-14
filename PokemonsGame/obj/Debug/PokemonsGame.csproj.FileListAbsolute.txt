@@ -1,0 +1,497 @@
+E:\Documents\DOO\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.csprojResolveAssemblyReference.cache
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\csc.exe
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\System.Collections.Immutable.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\vbc.exe
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\VBCSCompiler.exe
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\roslyn\VBCSCompiler.exe.config
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\PokemonsGame.dll.config
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\PokemonsGame.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\PokemonsGame.pdb
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Antlr3.Runtime.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\EntityFramework.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\EntityFramework.SqlServer.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Google.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Newtonsoft.Json.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Owin.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.Helpers.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.Mvc.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.Optimization.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.Razor.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Razor.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\WebGrease.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.Helpers.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.Mvc.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.Optimization.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.Razor.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Razor.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Antlr3.Runtime.pdb
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Newtonsoft.Json.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\EntityFramework.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\EntityFramework.SqlServer.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Google.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documents\DOO\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.dll
+E:\Documents\DOO\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.pdb
+E:\Documents\DOO\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.Migrations.firstmigration.resources
+E:\Documents\DOO\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.csproj.GenerateResource.Cache
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\csc.exe
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\vbc.exe
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\PokemonsGame.dll.config
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\PokemonsGame.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\PokemonsGame.pdb
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Antlr3.Runtime.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\EntityFramework.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\EntityFramework.SqlServer.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Newtonsoft.Json.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.Helpers.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.Mvc.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.Optimization.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.Razor.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Deployment.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Razor.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\WebGrease.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.Helpers.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.Mvc.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.Optimization.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.Razor.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Deployment.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Razor.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Antlr3.Runtime.pdb
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Newtonsoft.Json.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\EntityFramework.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\EntityFramework.SqlServer.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.csprojResolveAssemblyReference.cache
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.Migrations.firstmigration.resources
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.csproj.GenerateResource.Cache
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.dll
+C:\Users\camilo\Desktop\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.pdb
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\csc.exe
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\System.Collections.Immutable.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\vbc.exe
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\VBCSCompiler.exe
+E:\Documents\PokemonsGame\PokemonsGame\bin\roslyn\VBCSCompiler.exe.config
+E:\Documents\PokemonsGame\PokemonsGame\bin\PokemonsGame.dll.config
+E:\Documents\PokemonsGame\PokemonsGame\bin\PokemonsGame.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\PokemonsGame.pdb
+E:\Documents\PokemonsGame\PokemonsGame\bin\Antlr3.Runtime.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\EntityFramework.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\EntityFramework.SqlServer.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Google.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Newtonsoft.Json.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Owin.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.Helpers.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.Mvc.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.Optimization.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.Razor.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Razor.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\WebGrease.dll
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.Helpers.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.Mvc.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.Optimization.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.Razor.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\System.Web.WebPages.Razor.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Antlr3.Runtime.pdb
+E:\Documents\PokemonsGame\PokemonsGame\bin\Newtonsoft.Json.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\EntityFramework.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\EntityFramework.SqlServer.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Google.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documents\PokemonsGame\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documents\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.csprojResolveAssemblyReference.cache
+E:\Documents\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.Migrations.firstmigration.resources
+E:\Documents\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.csproj.GenerateResource.Cache
+E:\Documents\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.dll
+E:\Documents\PokemonsGame\PokemonsGame\obj\Debug\PokemonsGame.pdb
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\csc.exe
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\vbc.exe
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\PokemonsGame.dll.config
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\PokemonsGame.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\PokemonsGame.pdb
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Antlr3.Runtime.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\EntityFramework.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\EntityFramework.SqlServer.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Newtonsoft.Json.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.Helpers.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.Mvc.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.Optimization.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.Razor.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.WebPages.Deployment.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.WebPages.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.WebPages.Razor.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\WebGrease.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.Helpers.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.Mvc.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.Optimization.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.Razor.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.WebPages.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.WebPages.Deployment.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\System.Web.WebPages.Razor.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Antlr3.Runtime.pdb
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Newtonsoft.Json.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\EntityFramework.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\EntityFramework.SqlServer.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\obj\Debug\PokemonsGame.csprojResolveAssemblyReference.cache
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\obj\Debug\PokemonsGame.Migrations.firstmigration.resources
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\obj\Debug\PokemonsGame.csproj.GenerateResource.Cache
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\obj\Debug\PokemonsGame.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 1\PokemonsGame\obj\Debug\PokemonsGame.pdb
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\csc.exe
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\vbc.exe
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\PokemonsGame.dll.config
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\PokemonsGame.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\PokemonsGame.pdb
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Antlr3.Runtime.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\EntityFramework.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\EntityFramework.SqlServer.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Newtonsoft.Json.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.Helpers.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.Mvc.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.Optimization.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.Razor.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.WebPages.Deployment.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.WebPages.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.WebPages.Razor.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\WebGrease.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.Helpers.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.Mvc.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.Optimization.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.Razor.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.WebPages.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.WebPages.Deployment.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\System.Web.WebPages.Razor.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Antlr3.Runtime.pdb
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Newtonsoft.Json.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\EntityFramework.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\EntityFramework.SqlServer.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\obj\Debug\PokemonsGame.csprojResolveAssemblyReference.cache
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\obj\Debug\PokemonsGame.Migrations.firstmigration.resources
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\obj\Debug\PokemonsGame.csproj.GenerateResource.Cache
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\obj\Debug\PokemonsGame.dll
+C:\Users\camilo\Desktop\PokemonsGame - copia 2\PokemonsGame\obj\Debug\PokemonsGame.pdb
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\csc.exe
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\vbc.exe
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\PokemonsGame.dll.config
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\PokemonsGame.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\PokemonsGame.pdb
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Antlr3.Runtime.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\EntityFramework.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\EntityFramework.SqlServer.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Newtonsoft.Json.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Owin.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.Helpers.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.Mvc.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.Optimization.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.Razor.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.Deployment.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.Razor.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\WebGrease.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.Helpers.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.Mvc.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.Optimization.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.Razor.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.Deployment.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.Razor.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Antlr3.Runtime.pdb
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Newtonsoft.Json.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\EntityFramework.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\EntityFramework.SqlServer.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\obj\Debug\PokemonsGame.csprojResolveAssemblyReference.cache
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\obj\Debug\PokemonsGame.Migrations.firstmigration.resources
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\obj\Debug\PokemonsGame.csproj.GenerateResource.Cache
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\obj\Debug\PokemonsGame.dll
+C:\Users\camilo\Desktop\PokemonsGame Final\PokemonsGame\obj\Debug\PokemonsGame.pdb
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\csc.exe
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\System.Collections.Immutable.dll
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\System.Reflection.Metadata.dll
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\vbc.exe
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\VBCSCompiler.exe
+D:\PokemonsGame Final\PokemonsGame\bin\roslyn\VBCSCompiler.exe.config
+D:\PokemonsGame Final\PokemonsGame\bin\PokemonsGame.dll.config
+D:\PokemonsGame Final\PokemonsGame\bin\PokemonsGame.dll
+D:\PokemonsGame Final\PokemonsGame\bin\PokemonsGame.pdb
+D:\PokemonsGame Final\PokemonsGame\bin\Antlr3.Runtime.dll
+D:\PokemonsGame Final\PokemonsGame\bin\EntityFramework.dll
+D:\PokemonsGame Final\PokemonsGame\bin\EntityFramework.SqlServer.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Google.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Web.Infrastructure.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Newtonsoft.Json.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Owin.dll
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.Helpers.dll
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.Mvc.dll
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.Optimization.dll
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.Razor.dll
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.Deployment.dll
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.dll
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.Razor.dll
+D:\PokemonsGame Final\PokemonsGame\bin\WebGrease.dll
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.Helpers.xml
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.Mvc.xml
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.Optimization.xml
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.Razor.xml
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.xml
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.Deployment.xml
+D:\PokemonsGame Final\PokemonsGame\bin\System.Web.WebPages.Razor.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Antlr3.Runtime.pdb
+D:\PokemonsGame Final\PokemonsGame\bin\Newtonsoft.Json.xml
+D:\PokemonsGame Final\PokemonsGame\bin\EntityFramework.xml
+D:\PokemonsGame Final\PokemonsGame\bin\EntityFramework.SqlServer.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Google.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PokemonsGame Final\PokemonsGame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PokemonsGame Final\PokemonsGame\obj\Debug\PokemonsGame.csprojResolveAssemblyReference.cache
+D:\PokemonsGame Final\PokemonsGame\obj\Debug\PokemonsGame.Migrations.firstmigration.resources
+D:\PokemonsGame Final\PokemonsGame\obj\Debug\PokemonsGame.csproj.GenerateResource.Cache
+D:\PokemonsGame Final\PokemonsGame\obj\Debug\PokemonsGame.dll
+D:\PokemonsGame Final\PokemonsGame\obj\Debug\PokemonsGame.pdb

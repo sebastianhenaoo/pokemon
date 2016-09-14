@@ -1,0 +1,44 @@
+﻿@model PokemonsGame.Models.Campo
+
+<div class="col-md-4">
+    <div class="div-my">
+        <div class="Mybar">
+            <div class="progress">
+                <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" id="vida" style="width: @Model.MyPokemon.Vida%">
+                    <span class="sr-only">80% Complete</span>
+                </div>
+            </div>
+            <img class="mypokpos" src=@Model.MyPokemon.UrlImagenSec />
+            <h2 class="nombremypok">@Model.MyPokemon.Nombre</h2>
+            <a id="btn-ataque"
+               data-url-check="@Url.Content(string.Format("~/Campos/CheckMatch/{0}", Model.Id))"
+               data-url-fight="@Url.Content(string.Format("~/Campos/AtacarPokemon/{0}", Model.Id))"
+               data-enemyattack="@Url.Content(string.Format("~/Campos/AtaqueEnemigo/{0}", Model.Id))">
+                <img class="botatac" src="http://vignette3.wikia.nocookie.net/es.warhammer40k/images/1/15/Fist_raised_pu%C3%B1o_alzado_cerrado_rebeli%C3%B3n_wikihammer.jpg/revision/latest?cb=20130520153218" />
+            </a>
+            <a id="btn-ataque" data-url-defender="@Url.Content(string.Format("~/Campos/DefenderPokemon/{0}", Model.Id))">
+                <img class="botdef" src="http://www.rotupia.com/wp-content/uploads/2015/06/corazon-pixelado.jpg" />
+            </a>
+        </div>
+        <img class="mypokposppal" src=@Model.MyPokemon.UrlImagenPpal />
+
+    </div>
+</div>
+<img class="vs" src="http://bowriversolutions.com/wp-content/uploads/2014/04/VS-Icon.png" />
+<div class="col-md-4">
+    <div class="div-enemy">
+        <div class="Enemybar">
+            <div class="progress">
+                <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" id="vidae" style="width: @Model.EnemyPokemon.Vida%">
+                    <span class="sr-only">80% Complete</span>
+                </div>
+            </div>
+            <img class="enemypokpos" src=@Model.EnemyPokemon.UrlImagenSec />
+            <h2 class="nombrenemy">@Model.EnemyPokemon.Nombre</h2>
+        </div>
+        <img class="enemypokposppal" src=@Model.EnemyPokemon.UrlImagenPpal />
+    </div>
+</div>
+
+
+

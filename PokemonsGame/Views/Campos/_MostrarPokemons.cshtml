@@ -1,0 +1,22 @@
+﻿@model IEnumerable<PokemonsGame.Models.Pokemon>
+
+
+<div>
+    <h2 class="elige">ELIGE TÚ POKEMON</h2>
+    <br />
+    <table class="tabl">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a data-url="@Url.Content(string.Format("~/Campos/AddPokemon/{0}",item.Id))">
+                        <img class="tab-img" src=@item.UrlImagenSec />
+                    </a>
+                    <br />
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+    

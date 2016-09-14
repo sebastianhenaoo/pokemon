@@ -1,0 +1,89 @@
+﻿@model IEnumerable<PokemonsGame.Models.Campo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+ <div>
+    <div>
+        <img class="img-responsive nom-ppal" src="http://k30.kn3.net/taringa/7/2/A/1/5/0/SniperCamper/D86.png" />
+        <a data-url="@Url.Content("~/Campos/MostrarPokemons/")">
+        <img class="pokebola" src="http://i1105.photobucket.com/albums/h352/iFrank2011/Pokeball.png" />
+        </a>
+    </div>
+ </div>
+
+<audio  src="../Audio/Pokemon Musica.mp3" autoplay="true" loop="true"></audio>
+
+ <div id="poks">
+
+</div>
+@section scripts
+{
+  <script>
+        $('body').on('click', '[data-url-fight]', function () {
+            var t = $(this);
+            $.ajax({
+                method: 'POST',
+                url: $(this).data('url-fight')
+            })
+            .done(function (data) {
+                $('#vidae').css('width', data['enemigo'] + '%')
+                setTimeout(function () {
+                    $('#vida').css('width', data['jugador'] + '%');
+                    if (data['enemigo'] <= 0 || data['jugador'] <= 0) {
+                        $.ajax({
+                            method: 'GET',
+                            url: t.data('url-check')
+                        })
+                        .done(function (new_data) {
+                            $('#poks').hide();
+                            $('#poks').html(new_data);
+                            $('#poks').show('fast');
+                        });
+                    }
+                }, 1500);
+
+            });
+        })
+        $('body').on('click', '[data-url-defender]', function () {
+            var t = $(this);
+            $.ajax({
+                method: 'POST',
+                url: $(this).data('url-defender')
+            })
+            .done(function (data) {
+                $('#vida').css('width', data['jugador'] + '%')
+                setTimeout(function () {
+                    $('#vidae').css('width', data['enemigo'] + '%');
+                }, 1500);
+
+            });
+        })
+        $('body').on('click', '[data-url]', function () {
+            $.ajax({
+                method: 'POST',
+                url: $(this).data('url')
+            })
+            .done(function (data) {
+                $('#poks').hide();
+                $('#poks').html(data);
+                $('#poks').show('fast');
+            });
+        })
+
+        $('body').on('click', '[data-enemyattack]', function () {
+            var atacarUrl = '';
+            $(function () {
+                atacarUrl = $('#btn-ataque').data('enemyattack');
+            });
+            function atacar() {
+                $.ajax(
+                { url: atacarUrl }
+                ).done(function (data) {
+                    $('#mybar').html(data);
+                })
+            }
+        })
+</script>
+}

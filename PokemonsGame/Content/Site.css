@@ -1,0 +1,168 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color:#ffd800;
+
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.nom-ppal{
+    position:relative;
+    height:200px;
+    width:400px;
+    left:350px;
+}
+.pokebola{
+    position:relative;
+    height:120px;
+    width:220px;
+    left:457px;
+    top:-40px;
+}
+.elige{
+    position:relative;
+    left:424px;
+    font-family: "Times New Roman", Times, serif;
+    top:4px;
+}
+.tabl{
+    position:relative;
+    left:515px;
+    top:4px;
+}
+.tab-img{
+    position:relative;
+    max-height:80px;
+    max-width:100px;
+}
+.vs{
+    position:relative;
+    height:100px;
+    width:100px;
+    left:-246px;
+    top:160px;
+}
+.div-my{
+    position:relative;
+    left:0px;
+    top:40px;
+}
+.div-enemy{
+    position:relative;
+    left:-324px;
+    top:490px;
+}
+.mypokposppal{
+    position:relative;
+    max-height:280px;
+    max-width:400px;
+    bottom:160px;
+}
+.mypokpos{
+    position:relative;
+    max-height:80px;
+    max-width:100px;
+    top:-130px;
+    left:-10px;
+}
+.botatac{
+    position:relative;
+    height:50px;
+    width:50px;
+    top:-250px;
+    left:260px;
+    border-radius:50%;
+}
+.botdef{
+    position:relative;
+    height:50px;
+    width:50px;
+    top:-250px;
+    left:270px;
+    border-radius:50%;
+}
+.nombremypok{
+    position:relative;
+    top:-200px;
+    left:95px;
+    font-family: "Times New Roman", Times, serif;
+}
+.enemypokpos{
+    position:relative;
+    max-height:80px;
+    max-width:100px;
+    left:310px;
+    bottom:129px;
+}
+.enemypokposppal{
+    position:relative;
+    max-height:400px;
+    max-width:400px;
+    left:660px;
+    bottom:560px;
+}
+.nombrenemy{
+    position:relative;
+    top:-190px;
+    left:180px;
+    font-family: "Times New Roman", Times, serif;
+}
+.Mybar{
+    position:relative;
+    width:400px; 
+    top:440px;
+}
+.Enemybar{
+    position:relative;
+    width:400px; 
+    left:660px;
+    top:-17px; 
+}
+.pok-win{
+    position:relative;
+    max-height:200px;
+    max-width:200px; 
+    left:470px;
+    top:100px; 
+}
+.progress{
+    background-color:black;
+}
+.ganador{
+    position:relative;
+    top:-180px;
+    left:475px;
+    font-family: "Times New Roman", Times, serif;
+}
+.trofeo{
+    position:relative;
+    max-height:100px;
+    max-width:100px;
+    left:380px;
+    bottom:249px; 
+}
+.trofeo1{
+    position:relative;
+    max-height:100px;
+    max-width:100px;
+    left:537px;
+    bottom:249px; 
+}
